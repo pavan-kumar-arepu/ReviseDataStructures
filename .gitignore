@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+# Ignore everything under /Users/pavankumararepu/ except /Users/pavankumararepu/Technology/DataStructures
+/Users/pavankumararepu/*
+!/Users/pavankumararepu/Technology/DataStructures/
