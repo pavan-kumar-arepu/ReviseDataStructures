@@ -16,4 +16,4 @@ def quick_sort(arr):
 
 sample_array = [9, 7, 5, 11, 12, 2, 14, 3, 10, 6]
 sorted_array = quick_sort(sample_array)
-print("SortedArray", sorted_array)
+print("The SortedArray", sorted_array)
